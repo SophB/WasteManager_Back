@@ -1,0 +1,275 @@
+{
+    "quartiers": [{
+            "population": 76638,
+            "plastiques": {
+                "PET": 2053.9,
+                "PVC": 1232.34,
+                "PC": 1643.12,
+                "PEHD": 2464.68
+            },
+            "papier": 8626.37,
+            "organique": 12323.39,
+            "verre": 5340.14,
+            "metaux": 1643.12,
+            "autre": 98587.12
+        },
+        {
+            "population": 43824,
+            "plastiques": {
+                "PET": 469.79,
+                "PVC": 1174.48,
+                "PC": 704.69,
+                "PEHD": 1174.48
+            },
+            "papier": 4463.04,
+            "organique": 5872.42,
+            "verre": 3288.55,
+            "metaux": 939.59,
+            "autre": 56375.19
+        },
+        {
+            "population": 45802,
+            "plastiques": {
+                "PET": 736.5,
+                "PVC": 2454.99,
+                "PC": 736.5,
+                "PEHD": 981.99
+            },
+            "papier": 4909.97,
+            "organique": 6628.47,
+            "verre": 2700.49,
+            "metaux": 981.99,
+            "autre": 54009.72
+        },
+        {
+            "population": 43536,
+            "plastiques": {
+                "PET": 933.41,
+                "PVC": 933.41,
+                "PC": 933.41,
+                "PEHD": 1166.76
+            },
+            "papier": 4667.06,
+            "organique": 7467.29,
+            "verre": 3033.59,
+            "metaux": 233.35,
+            "autre": 42003.53
+        },
+        {
+            "population": 67114,
+            "plastiques": {
+                "PET": 2158.39,
+                "PVC": 1438.92,
+                "PC": 359.73,
+                "PEHD": 1798.66
+            },
+            "papier": 6834.89,
+            "organique": 9353.01,
+            "verre": 5036.23,
+            "metaux": 1438.92,
+            "autre": 82738.14
+        },
+        {
+            "population": 59694,
+            "plastiques": {
+                "PET": 959.88,
+                "PVC": 1279.84,
+                "PC": 639.92,
+                "PEHD": 2239.72
+            },
+            "papier": 6079.24,
+            "organique": 9598.8,
+            "verre": 4159.48,
+            "metaux": 1279.84,
+            "autre": 67191.57
+        },
+        {
+            "population": 48172,
+            "plastiques": {
+                "PET": 1291.01,
+                "PVC": 2582.02,
+                "PC": 774.61,
+                "PEHD": 1291.01
+            },
+            "papier": 5422.24,
+            "organique": 7746.06,
+            "verre": 2582.02,
+            "metaux": 774.61,
+            "autre": 46476.35
+        },
+        {
+            "population": 69338,
+            "plastiques": {
+                "PET": 2229.91,
+                "PVC": 1114.96,
+                "PC": 371.65,
+                "PEHD": 1486.61
+            },
+            "papier": 7433.03,
+            "organique": 11149.55,
+            "verre": 4459.82,
+            "metaux": 1114.96,
+            "autre": 70613.82
+        },
+        {
+            "population": 32627,
+            "plastiques": {
+                "PET": 524.64,
+                "PVC": 1748.81,
+                "PC": 349.76,
+                "PEHD": 1224.17
+            },
+            "papier": 3497.61,
+            "organique": 6120.83,
+            "verre": 1748.81,
+            "metaux": 174.88,
+            "autre": 33227.34
+        },
+        {
+            "population": 62362,
+            "plastiques": {
+                "PET": 2005.56,
+                "PVC": 2339.82,
+                "PC": 334.26,
+                "PEHD": 2339.82
+            },
+            "papier": 7353.73,
+            "organique": 10696.33,
+            "verre": 4679.64,
+            "metaux": 334.26,
+            "autre": 60166.86
+        },
+        {
+            "population": 69449,
+            "plastiques": {
+                "PET": 2233.48,
+                "PVC": 1861.23,
+                "PC": 1861.23,
+                "PEHD": 2605.73
+            },
+            "papier": 7444.93,
+            "organique": 10795.15,
+            "verre": 4839.21,
+            "metaux": 1116.74,
+            "autre": 74449.33
+        },
+        {
+            "population": 2059,
+            "plastiques": {
+                "PET": 66.22,
+                "PVC": 33.11,
+                "PC": 55.18,
+                "PEHD": 55.18
+            },
+            "papier": 209.69,
+            "organique": 309.01,
+            "verre": 143.47,
+            "metaux": 22.07,
+            "autre": 1986.52
+        }
+    ],
+    "services": [{
+            "type": "incinerateur",
+            "ligneFour": 5,
+            "capaciteLigne": 133060
+        },
+        {
+            "type": "incinerateur",
+            "ligneFour": 3,
+            "capaciteLigne": 133060
+        },
+        {
+            "type": "incinerateur",
+            "ligneFour": 3,
+            "capaciteLigne": 133060
+        },
+        {
+            "type": "recyclagePlastique",
+            "plastiques": [
+                "PET",
+                "PEHD"
+            ],
+            "capacite": 27721
+        },
+        {
+            "type": "recyclagePlastique",
+            "plastiques": [
+                "PVC",
+                "PC",
+                "PEHD"
+            ],
+            "capacite": 55442
+        },
+        {
+            "type": "recyclagePlastique",
+            "plastiques": [
+                "PET",
+                "PVC",
+                "PEHD"
+            ],
+            "capacite": 55442
+        },
+        {
+            "type": "recyclagePapier",
+            "capacite": 36961
+        },
+        {
+            "type": "recyclageVerre",
+            "capacite": 20791,
+            "consigne": true
+        },
+        {
+            "type": "recyclageMetaux",
+            "capacite": 22177
+        },
+        {
+            "type": "centreTri",
+            "capacite": 73922
+        },
+        {
+            "type": "composteur",
+            "capacite": 3,
+            "foyers": 61
+        },
+        {
+            "type": "composteur",
+            "capacite": 3,
+            "foyers": 73
+        },
+        {
+            "type": "composteur",
+            "capacite": 1,
+            "foyers": 76
+        },
+        {
+            "type": "composteur",
+            "capacite": 3,
+            "foyers": 101
+        },
+        {
+            "type": "composteur",
+            "capacite": 2,
+            "foyers": 61
+        },
+        {
+            "type": "composteur",
+            "capacite": 2,
+            "foyers": 92
+        },
+        {
+            "type": "composteur",
+            "capacite": 2,
+            "foyers": 69
+        },
+        {
+            "type": "composteur",
+            "capacite": 1,
+            "foyers": 118
+        },
+        {
+            "type": "composteur",
+            "capacite": 3,
+            "foyers": 82
+        }
+    ]
+}
